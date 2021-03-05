@@ -1,0 +1,32 @@
+{
+    "name": "gracefulbear",
+    "displayName": "GracefulBear",
+    "description": "GracefulBear is tottaly based on OneDarkPro Theme config.",
+    "version": "0.0.1",
+    "publisher": "GracefulBear",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Dark Theme",
+        "Theme",
+        "Dark",
+        "Girl",
+        "Pink",
+        "Bear",
+        "Graceful",
+        "GracefulBear"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GracefulBear",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GracefulBear-color-theme.json"
+            }
+        ]
+    }
+}
