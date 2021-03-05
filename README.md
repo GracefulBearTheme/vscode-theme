@@ -1,13 +1,11 @@
-
-
-
 ## GracefulBear Theme for VS Code
 
 Thanks for checking out my VS Code theme.
 
-
+![alt text](https://github.com/GracefulBearTheme/vscode-theme/blob/master/images/theme.gif "Graceful Bear")
 
 ### Installation
+
 1. Open the extensions sidebar on Visual Studio Code
 2. Search for GracefulBear Theme
 3. Click Install
