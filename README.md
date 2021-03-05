@@ -7,7 +7,6 @@ Thanks for checking out my VS Code theme.
 
 
 
-
 ### Installation
 1. Open the extensions sidebar on Visual Studio Code
 2. Search for GracefulBear Theme
