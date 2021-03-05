@@ -2,7 +2,7 @@
 
 Thanks for checking out my VS Code theme.
 
-![Graceful Bear](https://github.com/GracefulBearTheme/vscode-theme/blob/master/images/theme.gif "Graceful Bear")
+![Graceful Bear](https://raw.githubusercontent.com/GracefulBearTheme/vscode-theme/master/images/theme.gif "Graceful Bear")
 
 ### Installation
 
